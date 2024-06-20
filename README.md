@@ -9,7 +9,7 @@
 
 Clone o repositório em um diretório local do seu computador;
 ```shell
-git clone 
+git clone git@github.com:matheusfs99/estudo-crewai.git
 ```
 
 Acesse o repositório;
